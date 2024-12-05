@@ -1,4 +1,4 @@
-# luckfox-pico
+# luckfox-pico GH ACTIONS
 
 Linux systems for LuckFox Pico series, including
 Pico Mini b, Pico Plus and Pico Pro Max (all models with SPI flash).
